@@ -5,6 +5,8 @@ class Book{
 	}
 	public void setNmae{
 	}
-	
-
+	public void getBookId{
+	}
+	public viud getName{
+	}
 }
